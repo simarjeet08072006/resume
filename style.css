@@ -1,0 +1,43 @@
+*{
+    margin: 4px;
+    padding: 4px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+}
+.resume{
+    width:60%;
+    height: 60%;
+    padding: 1rem;
+    background-color: white;
+}
+.nav_1{
+    display: flex;
+    justify-content: center;
+}
+.nav_2{
+    display: flex;
+    justify-content: center;
+}
+.nav_3{
+    display: flex;
+    justify-content: space-between;
+}
+.line{
+    height:0.1em;
+    background-color: black;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}   
+.div_6{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
